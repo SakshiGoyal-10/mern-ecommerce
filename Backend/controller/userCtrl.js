@@ -13,7 +13,7 @@ const crypto = require("crypto");
 const jwt = require("jsonwebtoken");
 const sendEmail = require("./emailCtrl");
 // const { createPasswordResetToken } = require("../models/userModel");
-user.createPasswordResetToken()
+
 
 // Create a User ----------------------------------------------
 
